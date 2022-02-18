@@ -1,0 +1,1 @@
+Se você tiver interesse em aprender um pouco mais sobre imutabilidade de strings no Python, [clique aqui](https://blog.saldanha.dev/imutabilidade-de-strings-no-python) para acessar um breve artigo sobre o assunto.
