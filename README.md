@@ -39,3 +39,21 @@ Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para 
 
 ### 03 - URL com Múltiplos Parâmetros
 * Usar o método `find(STRING, BEGIN)` indicando a partir de qual posição se quer começar.
+
+## 03 - Aplicando Orientação a Objetos no Projeto &#x1F516;
+* Podemos utilizar a palavra-chave `raise` para lançar uma exceção no nosso programa, informando ao usuário qual erro ocorreu.
+* Mais métodos de strings: `str.replace` e `str.strip`.
+* Como transformar um código em uma classe com atributos e métodos.
+* A diferença entre `None`, `””`, `0`, e como o `if` do Python funciona.
+* O operador `not`.
+
+### 01 - Validando a URL
+* Lançar uma exceção com a palavra chave `raise`.
+* Usar o método `replace(SEARCH, STRING)`.
+* O método `strip()` limpa os espaços em branco de uma *string*.
+
+### 02 - Criando nossa Classe
+* Criar uma classe `URLExtractor`.
+
+### 03 - None vs Empty, e o If do Python
+* Fazer validação da `url`.
