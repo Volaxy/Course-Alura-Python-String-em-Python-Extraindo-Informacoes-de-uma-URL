@@ -10,6 +10,9 @@ URL do curso -> [String em Python Extraindo Informações de uma URL](https://cu
 
 ![String em Python Extraindo Informações de uma URL](https://www.alura.com.br/assets/api/share/curso-string-python-extraindo-informacoes-url.png)
 
+## Siglas &#x1F5FA;
+* RE - **R**egular **E**xpression - Expressão Regular.
+
 ## 01 - Introdução e Fatiamento de Strings &#x1F516;
 * URLs e seus formatos: como as URLs funcionam e o que cada parte de uma URL significa - base e parâmetros.
 * O operador de fatiamento `[a:b]`, utilizado para obter uma substring desde o índice `a` até o índice `b - 1` da string original. Lembrando que `b - 1` pois o segundo argumento do fatiamento é exclusivo.
@@ -57,3 +60,24 @@ Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para 
 
 ### 03 - None vs Empty, e o If do Python
 * Fazer validação da `url`.
+
+## 04 - Expressões Regulares &#x1F516;
+* Como construir e utilizar expressões regulares, ou RegEx utilizando o módulo `re` do Python.
+* Qual a diferença entre `search` e `match`.
+* O que são quantificadores e intervalos em RegEx.
+* A diferença entre parênteses `(..)` colchetes `[...]` na construção de padrões.
+* Como utilizar expressões regulares para fazer validações complexas.
+
+### 01 - O que são Expressões Regulares
+* Utilizar a biblioteca `re` para expressões regulares.
+* `re.compile(PATTERN)` recebe uma *string* com a expressão regular desejada.
+* `compile(STRING)` para ver se dentro da *string* há o padrão especificado.
+* Usar o `?` na *string* do padrão.
+
+### 02 - Quantificadores e Intervalos
+* Usar **quantificadores** com `{x}`.
+* Usar **intervalos** com `x-y`.
+
+### 03 - Validando nossa URL com RegEx
+* Diferenças entre usar `()` e `[]`.
+* Usar `match()` para verificar se uma *string* corresponde exatamente com o padrão.
