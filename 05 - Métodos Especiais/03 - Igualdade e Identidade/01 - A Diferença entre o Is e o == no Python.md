@@ -1,0 +1,1 @@
+O instrutor Yan escreveu um [artigo no blog da Alura](https://www.alura.com.br/artigos/qual-a-diferenca-entre-e-is-no-python) falando um pouco mais sobre a diferença entre utilizar o operador `is` (identidade) e o operador `==` (igualdade) no Python. Se você quiser aprender ainda mais sobre esse assunto, vale a pena conferir!

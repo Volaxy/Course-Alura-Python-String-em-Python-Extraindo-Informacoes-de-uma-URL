@@ -81,3 +81,17 @@ Podemos omitir o primeiro ou o segundo argumento do operador de fatiamento para 
 ### 03 - Validando nossa URL com RegEx
 * Diferenças entre usar `()` e `[]`.
 * Usar `match()` para verificar se uma *string* corresponde exatamente com o padrão.
+
+## 05 - Métodos Especiais &#x1F516;
+* Métodos especiais são chamados pelo próprio interpretador Python de acordo com alguma instrução.
+* Como implementar métodos especiais em nossas classes para criar comportamentos customizados.
+* A diferença entre igualdade (`==`) e identidade (`is`).
+
+### 01 - O Método `__len__()`
+* Implementar o método `__len__()` dentro da classe.
+
+### 02 - O Método `__Str__()`
+* Utilizar o método `__Str__()` para imprimir um objeto.
+
+### 03 - Igualdade e Identidade
+* Comparar de 2 objetos são iguais ou não.
